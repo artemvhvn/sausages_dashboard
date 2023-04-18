@@ -1,5 +1,5 @@
 # Анализ рынка колбас и колбасных продуктов
-### `Tableau Dashboard`
+### [`Tableau Dashboard`](https://public.tableau.com/views/sausages/productionandprice?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Цель
 Построить дашборд с основными параметрами баланса рынка:
